@@ -13,8 +13,7 @@ class Giulia:
         ]
         self.hobbies = ["Running", "Drawing", "Music"]
         self.skills = [
-            "Machine Learning", "Computer Vision", "Robotics", 
-            "Deep Learning", "Data Science"
+            "Machine Learning", "Computer Vision", "Deep Learning", "Data Science"
         ]
         self.goals = "Building AI-driven solutions for real-world problems."
 
